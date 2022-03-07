@@ -102,21 +102,21 @@ function App() {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    CONTRACT_ADDRESS: "0x5F824d6342c86Ad92F5fc3aFda974716aF17367b",
-    SCAN_LINK: "https://rinkeby.etherscan.io/address/0x5F824d6342c86Ad92F5fc3aFda974716aF17367b",
+    CONTRACT_ADDRESS: "0xEe3d3C12b9Fc04A078feC8Eb15d2F5E7465fd80F",
+    SCAN_LINK: "https://rinkeby.etherscan.io/address/0xee3d3c12b9fc04a078fec8eb15d2f5e7465fd80f",
     NETWORK: {
       NAME: "ethereum",
       SYMBOL: "ETH",
       ID: 4,
     },
-    NFT_NAME: "KEVIN BUCKZ",
-    SYMBOL: "KEVIN BUCKZ",
+    NFT_NAME: "Kevin Buckz",
+    SYMBOL: "KBUCKZ",
     MAX_SUPPLY: 1069,
-    WEI_COST: 10000000000000000,
-    DISPLAY_COST: 0.01,
+    WEI_COST: 11000000000000000,
+    DISPLAY_COST: 0.011,
     GAS_LIMIT: 285000,
     MARKETPLACE: "opensea",
-    MARKETPLACE_LINK: "https://www.testnets.opensea.io/collections/kevin_buckz",
+    MARKETPLACE_LINK: "https://testnets.opensea.io/collection/kevin-buckz-by-meme-factory-v2",
     SHOW_BACKGROUND: true,
   });
 
