@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xEe3d3C12b9Fc04A078feC8Eb15d2F5E7465fd80F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xee3d3c12b9fc04a078fec8eb15d2f5e7465fd80f",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "ethereum",
+    "SYMBOL": "eth",
+    "ID": 4
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Kevin Buckz",
+  "SYMBOL": "Kevin Buckz",
+  "MAX_SUPPLY": 1069,
+  "WEI_COST": 11000000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/kevin-bucks-by-meme-factory",
   "SHOW_BACKGROUND": true
 }
